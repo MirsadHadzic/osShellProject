@@ -48,8 +48,11 @@ exec_example.c is a failed example, you should look for EXEC.c and execDemo.c wh
 </ul>
 <hr>
 <h2>Any sources/tutorials you have used to complete the assignment;</h2>
-<a href="https://www.it.uu.se/education/course/homepage/os/vt18/module-2/process-management/">Link Text</a>
-<a href="[URL_HERE](https://www.geeksforgeeks.org/operating-systems/)">Link Text</a>
-<a href="[URL_HERE](https://www.linuxjournal.com/)">Link Text</a>
-<a href="URL_HERE">Link Text</a>
-<a href="URL_HERE">Link Text</a>
+<a href="https://www.it.uu.se/education/course/homepage/os/vt18/module-2/process-management/">OS process management</a>
+<a href="https://www.geeksforgeeks.org/operating-systems/">OS GFG</a>
+<a href="https://www.linuxjournal.com/">Linux Journal</a>
+<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Three Easy Pieces</a>
+<a href="https://www.tutorialspoint.com/index.htm">Tutorialspoint</a>
+<hr>
+<h2>Any challenges you encountered along the way; </h2>
+<p>Along the way, We encountered several challenges while completing the operating systems assignment. Firstly, understanding complex concepts such as process management and memory allocation proved to be daunting tasks, requiring extensive research and study. Additionally, debugging code errors, especially those related to system calls and low-level programming, posed significant challenges and often required careful analysis of system behavior. Furthermore, coordinating group work and ensuring seamless integration of individual contributions presented its own set of challenges, necessitating effective communication and collaboration among team members. Lastly, adhering to project deadlines while balancing other academic and personal commitments required effective time management and prioritization skills to overcome.</p>
