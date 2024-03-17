@@ -48,7 +48,7 @@ exec_example.c is a failed example, you should look for EXEC.c and execDemo.c wh
 </ul>
 <hr>
 <h2>Any sources/tutorials you have used to complete the assignment;</h2>
-<a href="[URL_HERE](https://www.it.uu.se/education/course/homepage/os/vt18/module-2/process-management/)">Link Text</a>
+<a href="https://www.it.uu.se/education/course/homepage/os/vt18/module-2/process-management/">Link Text</a>
 <a href="[URL_HERE](https://www.geeksforgeeks.org/operating-systems/)">Link Text</a>
 <a href="[URL_HERE](https://www.linuxjournal.com/)">Link Text</a>
 <a href="URL_HERE">Link Text</a>
