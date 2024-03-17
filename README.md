@@ -3,6 +3,7 @@
 <p>
 <b>Basic</b>
 ./task1, first when you try to run task1.c, you should first do gcc -Wall -o task1 task1.c
+  Look for os_shell_project directory. .c files are over there.
 <br>
 <b>Advanced</b>
 It is called by executing this command in shell PS1="\$whoami@\$(hostname):~\$". The example of that can be seen in Screenshot(91).png and Screenshot(92).png.
