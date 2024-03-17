@@ -1,0 +1,22 @@
+ls is to list directory contents
+mkdir is to create directory 
+uptime is to show system update
+sl is a joke wheere locomotice shows and you need to install it using sudo
+apt install sl, and run in terinal by just typing sl
+
+okay, so the next thing we have done is intermadiate task for 1.2 shell progs
+
+ls -la 
+
+ls is to list directory contents, -l flag, it is to diplay detailed info
+about files, including permissions, owner, group, size and modification time.
+
+-a flag is to display hidden files
+
+for example ls -l /path/to/directory
+
+mkdir command is to create a directory, we can add an option to create parent
+directories if they don't exist -p flag
+-m is to add an option to set permissions for the created directory
+
+

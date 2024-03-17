@@ -1,0 +1,7 @@
+A system cal allows user-level processes to request services from the operating system, such as 
+accessing hardware or managing files. When a user-level process invokes a system call, control 
+transitions from user mode to kernel mode to execute the requested operation. The kernel, operating
+with higher privileges, fulfills the system call request by performing the necessary operations. 
+Once the system call is completed, control returns to the user-level process, which continues its
+execution. System calls enforce isolation and protection mechanisms, ensuring that user-level 
+processes cannot directly access critical system resources.

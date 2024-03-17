@@ -1,0 +1,6 @@
+-rw-rw-r--  1 vboxuser vboxuser   195 mar 16 16:48 proba_piping.txt
+uglavnom, pomocu > ovoga se overwrite file, i u nejga ide komanda ls -la, ali
+kada se koristi >>, to se append-a u file i onda se nece obrisati ovo sto sam
+napisao.
+-rw-rw-r--  1 vboxuser vboxuser   195 mar 16 16:48 proba_piping.txt
+samo se je na(dodalo)

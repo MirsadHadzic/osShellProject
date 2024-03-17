@@ -1,0 +1,10 @@
+A: In the child process, when it is scheduled next, the value of the variable 'a' will be 5. This is
+because the changes made to the variable 'a' in the parent process after forking ('a' = 6) do not
+affect the child process. Each process, including the parent and child, has its own separate memnory
+space, and changes made by one process do not affect the memory of other processes.
+
+B: The attempt to read from the file descriptor in the child process will fail. This is because the 
+parent process closed the file descriptor ('close(fd);') before the child process was scheduled for
+the first time. When a file descriptor is closed in a parent process, it is also closed in all its 
+child processes. Therefore, the 'read()' function in the child process will encounter an error when 
+attempting to read from the closed file descriptor.

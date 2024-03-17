@@ -1,0 +1,20 @@
+1. Starting a new process:
+
+* This action typically requires the OS to sue kernel mode. When starting a new process, the OS needs
+to allocate system resources, set up memory space, and initialize process control blocks. These 
+operations involve privileged instructions that can only be executed in kernel mode to ensure the
+security and stability of the system.
+
+2. Multiplying two floating numbers stored in an application's memory:
+
+* This action can be performed in user mode. Arithmetic operations such as multiplication are
+generally executed by the CPU, which operates in user mode for normal application tasks.
+As long as the floating-point numbers are accessible to the application in its memory space,
+the CPU can perform the multiplication without needing to switch to kernel mode.
+
+3. Writing the results of the multiplication to a temporary log file on disk:
+
+* This action requires the OS to use kernel mode. Writing to a file involves interacting with hardware
+devices, such as the disk drive, which requires privileged access to perform I/O operations. 
+Additionally, file system management and access control mechanisms are handled by the OS kernel
+to ensure data integrity and security, necessitating kernel mode execution.

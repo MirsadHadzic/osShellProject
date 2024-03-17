@@ -1,0 +1,3 @@
+uglavnom, ovo je proba za advanced task for task1.2 shell programs/commands,
+da se oproba piping. za ovo nam trebaju dva file-a, da bismo mogli executeati
+prvi i overwrite ls -la komadu u drugi.
