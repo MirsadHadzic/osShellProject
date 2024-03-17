@@ -27,13 +27,13 @@ int main(){
 }
 return 0;*/
 
-char input[MAX_INPUT_SIZE];
+char input[MAX_INPUT_SIZE]; // Declare a character array to store user input
 
 while(1){
 printf("prompt$");
-fgets(input, MAX_INPUT_SIZE, stdin);
+fgets(input, MAX_INPUT_SIZE, stdin); // Read user input from the standard input stream (keyboard)
 
-memset(input, 0, sizeof(input));
+memset(input, 0, sizeof(input)); // Clear the contents of the input buffer
 }
 
 return 0;
