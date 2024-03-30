@@ -56,4 +56,5 @@ exec_example.c is a failed example, you should look for EXEC.c and execDemo.c wh
 <a href="https://www.tutorialspoint.com/index.htm">Tutorialspoint</a>
 <hr>
 <h2>Any challenges you encountered along the way; </h2>
+
 <p>Along the way, We encountered several challenges while completing the operating systems assignment. Firstly, understanding complex concepts such as process management and memory allocation proved to be daunting tasks, requiring extensive research and study. Additionally, debugging code errors, especially those related to system calls and low-level programming, posed significant challenges and often required careful analysis of system behavior. Furthermore, coordinating group work and ensuring seamless integration of individual contributions presented its own set of challenges, necessitating effective communication and collaboration among team members. Lastly, adhering to project deadlines while balancing other academic and personal commitments required effective time management and prioritization skills to overcome.</p>
